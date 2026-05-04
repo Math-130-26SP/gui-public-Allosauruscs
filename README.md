@@ -8,4 +8,4 @@ _Write your project description here_
 ## GUI Wireframe
 _Embed your wireframe image(s) here! Here is an example_
 
-![Silly cat](silly-cat.webp)
+![Silly cat](wireframeyugiohweb.webp)
